@@ -1,0 +1,107 @@
+.wrapper{
+    display: flex;
+    justify-content: center;
+    height: 85vh;
+    align-items: center;
+    flex-direction: column;
+}
+
+._span1{
+    color: orange;
+    font-size: 28px;
+    font-weight: 500;
+    
+}
+
+._div1{
+    display: flex;
+    flex-direction: row;
+    padding: 10%;
+    border: 1px solid black;
+    border-radius: 10px;
+    justify-content: space-evenly;
+    width: 700px;
+    height: 400px;
+    gap: 70px;
+    padding: 40px;
+    align-items: center;
+    margin-bottom: 18px;
+}
+
+.col1{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+}
+
+._div2{
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    justify-content: space-between;
+    height: 40px;   
+}
+
+._div3{
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    justify-content: space-between;
+    height: 40px;
+    margin-bottom: -13px;
+}
+
+._input1{
+    height: 39px;
+    margin-bottom: -13px;
+}
+
+._div4{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 35px;
+}
+
+
+.button1{
+    background-color: mediumblue;
+    color: white;
+    height: 30px;
+    width: auto;
+    border-radius: 5px;
+}
+
+._div5{
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    gap: 15px;
+    font-size: 20px;
+    text-align: center;    
+    width: 220px;
+}
+
+._div6{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 780px;
+    font-size: 17px;
+}
+
+._div7{
+    display: flex;
+    column-gap: 30px;
+}
+
+._dropdown{
+    border: none;
+}
+
+._input1{
+    padding-left: 10px;
+    border: 1px solid;
+    border-radius: 4px;
+}

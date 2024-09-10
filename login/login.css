@@ -1,0 +1,100 @@
+.wrapper{
+    display: flex;
+    justify-content: center;
+    height: 85vh;
+    align-items: center;
+    flex-direction: column;
+}
+
+._div1{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    border-radius: 15px;
+    width: 350px;
+    height: 400px;
+    justify-content: space-around;
+    padding: 40px;
+    margin-bottom: 20px;
+}
+
+._div2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    font-size: 20px;
+}
+
+._div3{
+    height: 20px;
+}
+
+._div4{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 18px;
+}
+
+
+._div5{
+    display: flex;
+    flex-direction: row;
+    width: 420px;
+    justify-content: space-between  ;
+}
+
+
+._div6{
+    display: flex;
+    column-gap: 20px;
+}
+
+
+._dropdown{
+    border: none;
+}
+
+._input{
+    height: 40px;
+    padding-left: 18px;
+    border: 1px solid;
+    border-radius: 4px;
+}
+
+._span1{
+    color: orange;
+    font-weight: 500;
+    font-size: 25px;
+}
+
+._span2{
+    font-size: 27px;
+    margin-top: -4px;
+}
+
+._span3{
+    margin-bottom: -15px;
+}
+
+
+._span4{
+    margin-top: -28px;
+    color: blue;
+}
+
+._span5{
+    color: blue;
+}
+
+
+.button1{
+    border-radius: 4px;
+    color: white;
+    background-color: blue;
+    width: 70px;
+    height: 25px;
+    
+}
+
